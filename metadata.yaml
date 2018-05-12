@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41708#Jack-the-Hunchback--A-Story-of-Adventure-on-the-Coast-of-Maine
 gutenberg_issued: '2012-12-26'
 gutenberg_type: Text
 identifiers:
